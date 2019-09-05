@@ -1,0 +1,27 @@
+.grid-hline .tick line,.grid-hline .domain{
+    stroke: #333;
+}
+.title{
+    font-size: 20px;
+    text-anchor: middle;
+    fill : #333;
+}
+.bar{
+    fill : darkblue;
+    stroke: blue;
+}
+.axis .tick line{
+    stroke : #333;
+}
+.axis .tick text{
+    fill : #333;
+}
+.axis .domain{
+    stroke : #333;
+}
+
+.line{
+    fill : none;
+    stroke : #333;
+    stroke-width: 3;
+}
